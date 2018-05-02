@@ -22,7 +22,7 @@ The testers have no knowledge of how the system or component is structured insid
 
 ### Bottom up
 
-Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
+Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components.
 
 ### Boundary Value Analysis
 ### Capybara
@@ -33,9 +33,13 @@ Capybara is a web-based test automation software that simulates scenarios for us
 ### Debugging
 The process of finding, analyzing and removing the causes of failures in software. Debugging tools are used to reproduce failures, investigate the state of programs and find the corresponding defect. Debuggers enable programmers to execute programs step by step, to halt a program at any program statement and to set and examine program variables.
 ### Defect
+
 ### Defect Clustering
 A small number of modules contains most of the defects discovered during pre-release testing or shows the most operational failures.
+
 ### Dynamic Testing
+Dynamic Testing is a kind of software testing technique using which the dynamic behaviour of the code is analysed. For Performing dynamic, testing the software should be compiled and executed and parameters such as memory usage, CPU usage, response time and overall performance of the software are analyzed.
+
 ### Early Testing
 In the software development life cycle testing activities should start as early as possible and should be focused on defined objectives.
 ### Equivalence Partitions
@@ -49,10 +53,10 @@ Testing everything including all combinations of inputs and preconditions is not
 ### Functional tests
 
 ### Gherkin Syntax
-It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests. 
+It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests.
 
 ### Hybrid
-It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
+It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
 
 ### IEEE-829
 
@@ -69,10 +73,14 @@ Eight defined stages of software testing:
 * Test Summary Report
 
 ### ISTQB
+It stands for the "International Software Testing Qualifications Board". It's a software testing qualification certification organisation that operates internationally.
+
 ### Incident management
 ### Integration testing
 ### JMeter
+
 ### Mike Cohn's test Pyramid
+The "Test Pyramid" is a metaphor that tells us to group software tests into buckets of different granularity. It also gives an idea of how many tests we should have in each of these groups.
 
 ### Incident management
 The process of recognizing, investigating, taking action and disposing of incidents. It involves logging incidents, classifying them and identifying the impact.
@@ -93,7 +101,11 @@ If the same kinds of tests are repeated again and again, eventually the same set
 ### RSpec
 RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications.
 ### Regression Testing
+It's a type of software testing that ensures that previously developed and tested software still performs the same way after it is changed or interfaced with other software. Changes may include software enhancements, patches, configuration changes, etc.
+
 ### Restesting
+Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component. 
+
 ### Reusability
 ### Reviews
 
@@ -110,7 +122,10 @@ A white-box test design technique in which test cases are designed to execute st
 Static testing is the testing of the software work products manually, or with a set of tools. Code is not executed.
 
 ### Structural testing
+
 ### System Integration
+It is a testing process that exercises a software system's coexistence with others. With multiple integrated systems, assuming that each have already passed system testing, System Integration proceeds to test their required interactions.
+
 ### System testing
 ### Test Analysis and Design
 ### Test Case
@@ -155,6 +170,7 @@ There are two main categories of Test Design Techniques:<br>
 ### Testing is context dependent
 Testing is context dependent: Testing is basically context dependent. Different kinds of sites are tested differently. For example, safety – critical software is tested differently from an e-commerce site.
 ### Testing shows presence of defects
+Testing can show the defects are present, but cannot prove that there are no defects. Even after testing the application or product thoroughly we cannot say that the product is 100% defect free. Testing always reduces the number of undiscovered defects remaining in the software but even if no defects are found, it is not a proof of correctness.
 ### Top down
 Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
 
