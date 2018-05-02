@@ -1,6 +1,7 @@
 # Sparta Test Glossary
 
 ### Absence of Error
+If the system built is unusable and does not fulfil the user’s needs and expectations then finding and fixing defects does not help.
 ### Acceptance testing
 ### Alpha testing
 
@@ -16,6 +17,9 @@ Automated testing is the use of special software (separate from the software bei
 Beta Testing is also known as field testing. It takes place at customer’s site. It sends the system/software to users who install it and use it under real-world working conditions.
 
 ### Black box testing
+
+The testers have no knowledge of how the system or component is structured inside the box. In black-box testing the tester is concentrating on what the software does, not how it does it.
+
 ### Bottom up
 
 Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
@@ -30,13 +34,16 @@ Capybara is a web-based test automation software that simulates scenarios for us
 The process of finding, analyzing and removing the causes of failures in software. Debugging tools are used to reproduce failures, investigate the state of programs and find the corresponding defect. Debuggers enable programmers to execute programs step by step, to halt a program at any program statement and to set and examine program variables.
 ### Defect
 ### Defect Clustering
+A small number of modules contains most of the defects discovered during pre-release testing or shows the most operational failures.
 ### Dynamic Testing
 ### Early Testing
+In the software development life cycle testing activities should start as early as possible and should be focused on defined objectives.
 ### Equivalence Partitions
 ### Error
 ### Error Guessing
 ### Evaluating Test Criteria
 ### Exhaustive testing
+Testing everything including all combinations of inputs and preconditions is not possible. So, instead of doing the exhaustive testing we can use risks and priorities to focus testing efforts. For example: In an application in one screen there are 15 input fields, each having 5 possible values, then to test all the valid combinations you would need 30  517  578  125  (515) tests. This is very unlikely that the project timescales would allow for this number of tests. So, accessing and managing risk is one of the most important activities and reason for testing in any project.
 ### Exploratory testing
 ### Failure
 ### Functional tests
@@ -82,6 +89,7 @@ Tool for testing an Android app: Android Studio
 
 ### Non-functional tests
 ### Pesticide Paradox
+If the same kinds of tests are repeated again and again, eventually the same set of test cases will no longer be able to find any new bugs. To overcome this “Pesticide Paradox”, it is really very important to review the test cases regularly and new and different tests need to be written to exercise different parts of the software or system to potentially find more defects.
 ### RSpec
 RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications.
 ### Regression Testing
@@ -145,8 +153,8 @@ There are two main categories of Test Design Techniques:<br>
 * Execute all the test case and report defects, define severity and priority for each defect.
 * Carry out regression testing every time when changes are made to the code to fix defects.
 ### Testing is context dependent
+Testing is context dependent: Testing is basically context dependent. Different kinds of sites are tested differently. For example, safety – critical software is tested differently from an e-commerce site.
 ### Testing shows presence of defects
-
 ### Top down
 Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
 
