@@ -29,6 +29,7 @@ Functional tests
 Gherkin Syntax
 Hybrid
 
+
 ### Bottom up 
 
 Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
