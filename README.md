@@ -126,6 +126,10 @@ A black-box test design technique in which test cases are designed to execute sc
 ### Validation
 ### Verification
 ### White box testing
+
+The testers require knowledge of how the software is implemented, how it works.
+The tester is concentrating on how the software does it. For example, a structural technique may be concerned with exercising loops in the software.
+
 ### YAML
 
 YAML (YAML Ain't Markup Language) is a data serialization language. It is commonly used for configuration files, but could be used in many applications where data is being stored or transmitted.
