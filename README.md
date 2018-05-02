@@ -10,6 +10,9 @@ Alpha testing is simulated or actual operational testing by potential users/cust
 ### Automation Testing
 ### Behaviour Driven Development
 ### Beta testing
+
+Beta Testing is also known as field testing. It takes place at customer’s site. It sends the system/software to users who install it and use it under real-world working conditions.
+
 ### Black box testing
 ### Bottom up
 ### Boundary Value Analysis
