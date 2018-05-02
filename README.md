@@ -21,6 +21,7 @@ Beta Testing is also known as field testing. It takes place at customer’s site
 ### Cucumber
 ### Data Parsing
 ### Debugging
+The process of finding, analyzing and removing the causes of failures in software. Debugging tools are used to reproduce failures, investigate the state of programs and find the corresponding defect. Debuggers enable programmers to execute programs step by step, to halt a program at any program statement and to set and examine program variables.
 ### Defect
 ### Defect Clustering
 ### Dynamic Testing
