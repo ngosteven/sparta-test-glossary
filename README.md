@@ -1,34 +1,34 @@
 # Sparta Test Glossary
 
-Absence of Error
-Acceptance testing
-Alpha testing
-Appium
-Automation Testing
-Behaviour Driven Development
-Beta testing
-Black box testing
-Bottom up
-Boundary Value Analysis
-Capybara
-Configuration Management
-Cucumber
-Data Parsing
-Debugging
-Defect
-Defect Clustering
-Dynamic Testing
-Early Testing
-Equivalence Partitions
-Error
-Error Guessing
-Evaluating Test Criteria
-Exhaustive testing
-Exploratory testing
-Failure
-Functional tests
-Gherkin Syntax
-Hybrid
+### Absence of Error
+### Acceptance testing
+### Alpha testing
+### Appium
+### Automation Testing
+### Behaviour Driven Development
+### Beta testing
+### Black box testing
+### Bottom up
+### Boundary Value Analysis
+### Capybara
+### Configuration Management
+### Cucumber
+### Data Parsing
+### Debugging
+### Defect
+### Defect Clustering
+### Dynamic Testing
+### Early Testing
+### Equivalence Partitions
+### Error
+### Error Guessing
+### Evaluating Test Criteria
+### Exhaustive testing
+### Exploratory testing
+### Failure
+### Functional tests
+### Gherkin Syntax
+###Hybrid
 
 ### IEEE-829
 
