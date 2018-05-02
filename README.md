@@ -8,6 +8,8 @@ Alpha testing is simulated or actual operational testing by potential users/cust
 
 ### Appium
 ### Automation Testing
+Automated testing is the use of special software (separate from the software being tested) to control the execution of tests and the comparison of actual outcomes with predicted outcomes.
+
 ### Behaviour Driven Development
 ### Beta testing
 
@@ -36,7 +38,7 @@ Beta Testing is also known as field testing. It takes place at customer’s site
 
 
 ### Gherkin Syntax
-
+It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests. 
 
 ### Hybrid
 It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
@@ -48,9 +50,6 @@ Top-down integration testing is an integration testing technique used in order t
 ### Bottom up 
 
 Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
-
-### Hybrid
-
 
 ### IEEE-829
 
