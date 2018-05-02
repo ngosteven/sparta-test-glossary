@@ -19,7 +19,7 @@ Beta Testing is also known as field testing. It takes place at customer’s site
 ### Black box testing
 ### Bottom up
 
-Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
+Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components.
 
 ### Boundary Value Analysis
 ### Capybara
@@ -46,10 +46,10 @@ Testing everything including all combinations of inputs and preconditions is not
 ### Functional tests
 
 ### Gherkin Syntax
-It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests. 
+It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests.
 
 ### Hybrid
-It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
+It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
 
 ### IEEE-829
 
@@ -155,6 +155,7 @@ There are two main categories of Test Design Techniques:<br>
 ### Testing is context dependent
 Testing is context dependent: Testing is basically context dependent. Different kinds of sites are tested differently. For example, safety – critical software is tested differently from an e-commerce site.
 ### Testing shows presence of defects
+Testing can show the defects are present, but cannot prove that there are no defects. Even after testing the application or product thoroughly we cannot say that the product is 100% defect free. Testing always reduces the number of undiscovered defects remaining in the software but even if no defects are found, it is not a proof of correctness.
 ### Top down
 Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
 
