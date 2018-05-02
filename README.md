@@ -78,6 +78,7 @@ An approach to testing to reduce the level of product risks and inform stakehold
 ### State Transition Testing
 A black-box test design technique in which test cases are designed to execute valid and invalid state transitions.
 ### Statement Testing
+A white-box test design technique in which test cases are designed to execute statements.
 ### Static testing
 ### Structural testing
 ### System Integration
