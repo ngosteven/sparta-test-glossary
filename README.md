@@ -28,7 +28,10 @@ Bottom-up testing is an approach to integrated testing where the lowest level co
 ### Debugging
 ### Defect
 ### Defect Clustering
+
 ### Dynamic Testing
+Dynamic Testing is a kind of software testing technique using which the dynamic behaviour of the code is analysed. For Performing dynamic, testing the software should be compiled and executed and parameters such as memory usage, CPU usage, response time and overall performance of the software are analyzed.
+
 ### Early Testing
 ### Equivalence Partitions
 ### Error
@@ -60,10 +63,14 @@ Eight defined stages of software testing:
 * Test Summary Report
 
 ### ISTQB
+It stands for the "International Software Testing Qualifications Board". It's a software testing qualification certification organisation that operates internationally.
+
 ### Incident management
 ### Integration testing
 ### JMeter
+
 ### Mike Cohn's test Pyramid
+The "Test Pyramid" is a metaphor that tells us to group software tests into buckets of different granularity. It also gives an idea of how many tests we should have in each of these groups.
 
 ### Incident management
 The process of recognizing, investigating, taking action and disposing of incidents. It involves logging incidents, classifying them and identifying the impact.
@@ -85,7 +92,11 @@ An approach to testing to reduce the level of product risks and inform stakehold
 ### Pesticide Paradox
 ### RSpec
 ### Regression Testing
+It's a type of software testing that ensures that previously developed and tested software still performs the same way after it is changed or interfaced with other software. Changes may include software enhancements, patches, configuration changes, etc.
+
 ### Restesting
+Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component. 
+
 ### Reusability
 ### Reviews
 
@@ -98,7 +109,10 @@ A black-box test design technique in which test cases are designed to execute va
 ### Statement Testing
 ### Static testing
 ### Structural testing
+
 ### System Integration
+It is a testing process that exercises a software system's coexistence with others. With multiple integrated systems, assuming that each have already passed system testing, System Integration proceeds to test their required interactions.
+
 ### System testing
 ### Test Analysis and Design
 ### Test Case
