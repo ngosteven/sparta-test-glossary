@@ -26,9 +26,15 @@ Exhaustive testing
 Exploratory testing
 Failure
 Functional tests
-Gherkin Syntax
-Hybrid
 
+### Gherkin Syntax
+
+### Hybrid
+It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
+
+### Top Down
+
+Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
 
 ### Bottom up 
 
