@@ -22,6 +22,7 @@ Bottom-up testing is an approach to integrated testing where the lowest level co
 
 ### Boundary Value Analysis
 ### Capybara
+Capybara is a web-based test automation software that simulates scenarios for user stories and automates web application testing for behavior-driven software development. It is a part of the Cucumber testing framework written in the Ruby programming language that simulates various aspects of a web browser from the perspective of a real user.
 ### Configuration Management
 ### Cucumber
 ### Data Parsing
