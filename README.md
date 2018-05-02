@@ -45,3 +45,19 @@ Eight defined stages of software testing:
 * Test Incident Report
 * Test Log
 * Test Summary Report
+
+### Blackbox Testing
+
+The testers have no knowledge of how the system or component is structured inside the box. In black-box testing the tester is concentrating on what the software does, not how it does it.
+
+### Whitebox Testing
+
+In white-box testing the tester is concentrating on how the software does it. Here the testers require knowledge of how the software is implemented, how it works.
+
+### Unit Testing
+Integration Testing
+System Testing
+UI / Acceptance
+Test tool
+Behaviour Driven Development BDD
+Test Driven Development TDD
