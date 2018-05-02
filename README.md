@@ -10,6 +10,9 @@ Alpha testing is simulated or actual operational testing by potential users/cust
 ### Automation Testing
 ### Behaviour Driven Development
 ### Beta testing
+
+Beta Testing is also known as field testing. It takes place at customer’s site. It sends the system/software to users who install it and use it under real-world working conditions.
+
 ### Black box testing
 ### Bottom up
 ### Boundary Value Analysis
@@ -80,6 +83,9 @@ An approach to testing to reduce the level of product risks and inform stakehold
 A black-box test design technique in which test cases are designed to execute valid and invalid state transitions.
 ### Statement Testing
 ### Static testing
+
+Static testing is the testing of the software work products manually, or with a set of tools. Code is not executed.
+
 ### Structural testing
 ### System Integration
 ### System testing
@@ -113,6 +119,7 @@ There are two main categories of Test Design Techniques:<br>
 ### Traceability
 ### Unit testing
 ### Use Case testing
+A black-box test design technique in which test cases are designed to execute scenarios of use cases.
 ### User journey/story
 ### Validation
 ### Verification
