@@ -76,6 +76,7 @@ An approach to testing to reduce the level of product risks and inform stakehold
 
 ### Selenium
 ### State Transition Testing
+A black-box test design technique in which test cases are designed to execute valid and invalid state transitions.
 ### Statement Testing
 ### Static testing
 ### Structural testing
