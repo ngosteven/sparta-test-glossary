@@ -83,6 +83,14 @@ An approach to testing to reduce the level of product risks and inform stakehold
 A test case is a document which consists of a set of conditions or actions which are performed on the software application in order to verify the expected functionality of the feature. Here we describe the end to end logical flow of a specific requirement with test data, prerequisites and expected results.
 ### Test Closure
 ### Test Coverage
+Test coverage measures the amount of testing performed by a set of test. Wherever we can count things and can tell whether or not each of those things has been tested by some test, then we can measure coverage and is known as test coverage.<br>
+The basic coverage measure is where the ‘coverage item’ is whatever we have been able to count and see whether a test has exercised or used this item.
+There is danger in using a coverage measure. But, 100% coverage does not mean 100% tested. Coverage techniques measure only one dimension of a multi-dimensional concept. Two different test cases may achieve exactly the same coverage but the input data of one may find an error that the input data of the other doesn’t.<br>
+There are many different types of coverages which we will look at in detail, in subsequent topic, some of them are:
+1. Statement coverage
+2. Decision coverage
+3. Condition coverage<br>
+
 ### Test Design
 Creating a set of inputs for given software that will provide a set of expected outputs.  The idea is to ensure that the system is working good enough and it can be released with as few problems as possible for the average user.<br>
 There are two main categories of Test Design Techniques:<br>
