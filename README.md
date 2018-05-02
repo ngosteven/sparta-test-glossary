@@ -36,7 +36,6 @@ Beta Testing is also known as field testing. It takes place at customer’s site
 ### Failure
 ### Functional tests
 
-
 ### Gherkin Syntax
 It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests. 
 
@@ -46,6 +45,7 @@ It is an approach to Integration Testing which is a combination of Top Down and 
 ### Top Down
 
 Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
+
 
 ### Bottom up 
 
@@ -94,6 +94,7 @@ An approach to testing to reduce the level of product risks and inform stakehold
 ### Restesting
 ### Reusability
 ### Reviews
+
 ## Risk Based Testing
 An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
 
