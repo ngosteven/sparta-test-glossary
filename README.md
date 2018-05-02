@@ -48,13 +48,13 @@ Eight defined stages of software testing:
 ### Incident management
 ### Integration testing
 ### JMeter
-### Metric based testing
 ### Mike Cohn's test Pyramid
 ### Incident management
 The process of recognizing, investigating, taking action and disposing of incidents. It involves logging incidents, classifying them and identifying the impact.
 Integration testing
 JMeter
-Metric based testing
+### Metric based testing
+In software testing, Metric is a quantitative measure of the degree to which a system, system component, or process possesses a given attribute. In other words, metrics helps estimating the progress, quality and health of a software testing effort.
 Mike Cohn's test Pyramid
 ### Mobile testing
 Mobile application testing is a process by which application software developed for handheld mobile devices is tested for its functionality, usability and consistency. Mobile application testing can be an automated or manual type of testing. <br>
