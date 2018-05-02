@@ -27,8 +27,18 @@
 ### Exploratory testing
 ### Failure
 ### Functional tests
+
 ### Gherkin Syntax
+
+
+
 ### Hybrid
+It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
+
+### Top Down
+
+Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
+
 
 ### Bottom up 
 
@@ -48,7 +58,6 @@ Eight defined stages of software testing:
 * Test Log
 * Test Summary Report
 
-ISTQB
 ### Incident management
 The process of recognizing, investigating, taking action and disposing of incidents. It involves logging incidents, classifying them and identifying the impact.
 Integration testing
@@ -68,12 +77,9 @@ Regression Testing
 Restesting
 Reusability
 Reviews
-<<<<<<< HEAD
+
 
 ## Risk Based Testing
-=======
-### Risk Based Testing
->>>>>>> dfc8b226d1eaa9c13e547a95403cf5546a75a0e0
 An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
 
 Selenium
@@ -87,6 +93,7 @@ Test Analysis and Design
 Test Case
 Test Closure
 Test Coverage
+
 ### Test Design
 Creating a set of inputs for given software that will provide a set of expected outputs.  The idea is to ensure that the system is working good enough and it can be released with as few problems as possible for the average user.<br>
 There are two main categories of Test Design Techniques:<br>
