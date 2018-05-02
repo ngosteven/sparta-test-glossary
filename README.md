@@ -1,30 +1,30 @@
 # Sparta Test Glossary
 
-### Yaml
+## Yaml
 
 YAML (YAML Ain't Markup Language) is a data serialization language. It is commonly used for configuration files, but could be used in many applications where data is being stored or transmitted.
 
-### Top Down Approach
+## Top Down Approach
 
-### Bottom up
+## Bottom up
 
-### Hybrid
+## Hybrid
 
-### Gherkin
+## Gherkin
 
-### Automation Testing
+## Automation Testing
 
-### Dynamic Testing
+## Dynamic Testing
 
-### ISTQB
+## ISTQB
 
-### Regression Testing
+## Regression Testing
 
-### Re-testing
+## Re-testing
 
-### System Integration
+## System Integration
 
-### Test Pyramid
+## Test Pyramid
 
 
  
