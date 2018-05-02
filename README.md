@@ -14,7 +14,9 @@ Alpha testing is simulated or actual operational testing by potential users/cust
 Beta Testing is also known as field testing. It takes place at customer’s site. It sends the system/software to users who install it and use it under real-world working conditions.
 
 ### Black box testing
+
 The testers have no knowledge of how the system or component is structured inside the box. In black-box testing the tester is concentrating on what the software does, not how it does it.
+
 ### Bottom up
 ### Boundary Value Analysis
 ### Capybara
