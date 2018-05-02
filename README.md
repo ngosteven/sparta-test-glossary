@@ -9,6 +9,8 @@ Alpha testing is simulated or actual operational testing by potential users/cust
 
 ### Appium
 ### Automation Testing
+Automated testing is the use of special software (separate from the software being tested) to control the execution of tests and the comparison of actual outcomes with predicted outcomes.
+
 ### Behaviour Driven Development
 ### Beta testing
 
@@ -16,12 +18,17 @@ Beta Testing is also known as field testing. It takes place at customer’s site
 
 ### Black box testing
 ### Bottom up
+
+Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
+
 ### Boundary Value Analysis
 ### Capybara
+Capybara is a web-based test automation software that simulates scenarios for user stories and automates web application testing for behavior-driven software development. It is a part of the Cucumber testing framework written in the Ruby programming language that simulates various aspects of a web browser from the perspective of a real user.
 ### Configuration Management
 ### Cucumber
 ### Data Parsing
 ### Debugging
+The process of finding, analyzing and removing the causes of failures in software. Debugging tools are used to reproduce failures, investigate the state of programs and find the corresponding defect. Debuggers enable programmers to execute programs step by step, to halt a program at any program statement and to set and examine program variables.
 ### Defect
 ### Defect Clustering
 A small number of modules contains most of the defects discovered during pre-release testing or shows the most operational failures.
@@ -37,8 +44,12 @@ Testing everything including all combinations of inputs and preconditions is not
 ### Exploratory testing
 ### Failure
 ### Functional tests
+
 ### Gherkin Syntax
+It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests. 
+
 ### Hybrid
+It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
 
 ### IEEE-829
 
@@ -59,6 +70,7 @@ Eight defined stages of software testing:
 ### Integration testing
 ### JMeter
 ### Mike Cohn's test Pyramid
+
 ### Incident management
 The process of recognizing, investigating, taking action and disposing of incidents. It involves logging incidents, classifying them and identifying the impact.
 Integration testing
@@ -66,10 +78,14 @@ JMeter
 ### Metric based testing
 In software testing, Metric is a quantitative measure of the degree to which a system, system component, or process possesses a given attribute. In other words, metrics helps estimating the progress, quality and health of a software testing effort.
 Mike Cohn's test Pyramid
+
 ### Mobile testing
 Mobile application testing is a process by which application software developed for handheld mobile devices is tested for its functionality, usability and consistency. Mobile application testing can be an automated or manual type of testing. <br>
 Tool for testing an IOS app: Appium <br>
 Tool for testing an Android app: Android Studio
+
+## Risk Based Testing
+An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
 
 ### Non-functional tests
 ### Pesticide Paradox
@@ -80,6 +96,7 @@ RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby 
 ### Restesting
 ### Reusability
 ### Reviews
+
 ## Risk Based Testing
 An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
 
@@ -138,16 +155,20 @@ There are two main categories of Test Design Techniques:<br>
 ### Testing is context dependent
 Testing is context dependent: Testing is basically context dependent. Different kinds of sites are tested differently. For example, safety – critical software is tested differently from an e-commerce site.
 ### Testing shows presence of defects
-Testing can show the defects are present, but cannot prove that there are no defects. Even after testing the application or product thoroughly we cannot say that the product is 100% defect free. Testing always reduces the number of undiscovered defects remaining in the software but even if no defects are found, it is not a proof of correctness.
 ### Top down
+Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
+
 ### Traceability
 ### Unit testing
+
 ### Use Case testing
 A black-box test design technique in which test cases are designed to execute scenarios of use cases.
+
 ### User journey/story
 ### Validation
 ### Verification
 ### White box testing
+
 ### YAML
 
 YAML (YAML Ain't Markup Language) is a data serialization language. It is commonly used for configuration files, but could be used in many applications where data is being stored or transmitted.
