@@ -1,6 +1,7 @@
 # Sparta Test Glossary
 
 ### Absence of Error
+If the system built is unusable and does not fulfil the user’s needs and expectations then finding and fixing defects does not help.
 ### Acceptance testing
 ### Alpha testing
 
@@ -23,13 +24,16 @@ Beta Testing is also known as field testing. It takes place at customer’s site
 ### Debugging
 ### Defect
 ### Defect Clustering
+A small number of modules contains most of the defects discovered during pre-release testing or shows the most operational failures.
 ### Dynamic Testing
 ### Early Testing
+In the software development life cycle testing activities should start as early as possible and should be focused on defined objectives.
 ### Equivalence Partitions
 ### Error
 ### Error Guessing
 ### Evaluating Test Criteria
-### Exhaustive testing
+### Exhaustive testing is impossible
+Testing everything including all combinations of inputs and preconditions is not possible. So, instead of doing the exhaustive testing we can use risks and priorities to focus testing efforts. For example: In an application in one screen there are 15 input fields, each having 5 possible values, then to test all the valid combinations you would need 30  517  578  125  (515) tests. This is very unlikely that the project timescales would allow for this number of tests. So, accessing and managing risk is one of the most important activities and reason for testing in any project.
 ### Exploratory testing
 ### Failure
 ### Functional tests
@@ -69,6 +73,7 @@ Tool for testing an Android app: Android Studio
 
 ### Non-functional tests
 ### Pesticide Paradox
+If the same kinds of tests are repeated again and again, eventually the same set of test cases will no longer be able to find any new bugs. To overcome this “Pesticide Paradox”, it is really very important to review the test cases regularly and new and different tests need to be written to exercise different parts of the software or system to potentially find more defects.
 ### RSpec
 RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications.
 ### Regression Testing
@@ -131,7 +136,9 @@ There are two main categories of Test Design Techniques:<br>
 * Execute all the test case and report defects, define severity and priority for each defect.
 * Carry out regression testing every time when changes are made to the code to fix defects.
 ### Testing is context dependent
+Testing is context dependent: Testing is basically context dependent. Different kinds of sites are tested differently. For example, safety – critical software is tested differently from an e-commerce site.
 ### Testing shows presence of defects
+Testing can show the defects are present, but cannot prove that there are no defects. Even after testing the application or product thoroughly we cannot say that the product is 100% defect free. Testing always reduces the number of undiscovered defects remaining in the software but even if no defects are found, it is not a proof of correctness.
 ### Top down
 ### Traceability
 ### Unit testing
