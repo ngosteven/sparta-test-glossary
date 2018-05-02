@@ -3,6 +3,9 @@
 ### Absence of Error
 ### Acceptance testing
 ### Alpha testing
+
+Alpha testing is simulated or actual operational testing by potential users/customers or an independent test team at the developers’ site. Alpha testing is often employed for off-the-shelf software as a form of internal acceptance testing, before the software goes to beta testing.
+
 ### Appium
 ### Automation Testing
 ### Behaviour Driven Development
