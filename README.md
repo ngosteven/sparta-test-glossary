@@ -17,6 +17,9 @@ Automated testing is the use of special software (separate from the software bei
 Beta Testing is also known as field testing. It takes place at customer’s site. It sends the system/software to users who install it and use it under real-world working conditions.
 
 ### Black box testing
+
+The testers have no knowledge of how the system or component is structured inside the box. In black-box testing the tester is concentrating on what the software does, not how it does it.
+
 ### Bottom up
 
 Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
