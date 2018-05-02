@@ -32,7 +32,7 @@ In the software development life cycle testing activities should start as early 
 ### Error
 ### Error Guessing
 ### Evaluating Test Criteria
-### Exhaustive testing is impossible
+### Exhaustive testing
 Testing everything including all combinations of inputs and preconditions is not possible. So, instead of doing the exhaustive testing we can use risks and priorities to focus testing efforts. For example: In an application in one screen there are 15 input fields, each having 5 possible values, then to test all the valid combinations you would need 30  517  578  125  (515) tests. This is very unlikely that the project timescales would allow for this number of tests. So, accessing and managing risk is one of the most important activities and reason for testing in any project.
 ### Exploratory testing
 ### Failure
