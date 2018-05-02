@@ -32,19 +32,6 @@ Mobile application testing is a process by which application software developed 
 Tool for testing an IOS app: Appium <br>
 Tool for testing an Android app: Android Studio
 
-<<<<<<< HEAD
-Blackbox Testing
-The testers have no knowledge of how the system or component is structured inside the box. In black-box testing the tester is concentrating on what the software does, not how it does it.
-
-Whitebox Testing
-Unit Testing
-Integration Testing
-System Testing
-UI / Acceptance
-Test tool
-Behaviour Driven Development BDD
-Test Driven Development TDD
-=======
 ## IEEE-829
 
 Standard for Software Test Documentation
@@ -58,4 +45,3 @@ Eight defined stages of software testing:
 * Test Incident Report
 * Test Log
 * Test Summary Report
->>>>>>> 9991d5501f1b47378e732694b9811bf93e668e91
