@@ -29,7 +29,8 @@ Failure
 Functional tests
 Gherkin Syntax
 Hybrid
-### IEEE-829
+
+### IEEE-829
 
 Standard for Software Test Documentation
 Eight defined stages of software testing:
@@ -62,7 +63,9 @@ Regression Testing
 Restesting
 Reusability
 Reviews
-Risk based testing
+## Risk Based Testing
+An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
+
 Selenium
 State Transition Testing
 Statement Testing
