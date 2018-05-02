@@ -118,6 +118,7 @@ There are two main categories of Test Design Techniques:<br>
 ### Traceability
 ### Unit testing
 ### Use Case testing
+A black-box test design technique in which test cases are designed to execute scenarios of use cases.
 ### User journey/story
 ### Validation
 ### Verification
