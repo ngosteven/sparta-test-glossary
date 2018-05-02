@@ -17,6 +17,9 @@ Beta Testing is also known as field testing. It takes place at customer’s site
 
 ### Black box testing
 ### Bottom up
+
+Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
+
 ### Boundary Value Analysis
 ### Capybara
 ### Configuration Management
@@ -41,15 +44,6 @@ It is a Business Readable, Domain Specific Language that lets you describe softw
 
 ### Hybrid
 It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
-
-### Top Down
-
-Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
-
-
-### Bottom up 
-
-Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
 
 ### IEEE-829
 
@@ -119,7 +113,6 @@ There are many different types of coverages which we will look at in detail, in 
 2. Decision coverage
 3. Condition coverage<br>
 
-
 ### Test Design
 Creating a set of inputs for given software that will provide a set of expected outputs.  The idea is to ensure that the system is working good enough and it can be released with as few problems as possible for the average user.<br>
 There are two main categories of Test Design Techniques:<br>
@@ -133,7 +126,10 @@ There are two main categories of Test Design Techniques:<br>
 ### Testing Roles
 ### Testing is context dependent
 ### Testing shows presence of defects
+
 ### Top down
+Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
+
 ### Traceability
 ### Unit testing
 
