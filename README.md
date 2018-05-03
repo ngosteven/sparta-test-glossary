@@ -37,7 +37,7 @@
 - [Integration testing](#integration-testing)
 - [JMeter](#jmeter)
 - [Metric based testing](#metric-based-testing)
-- [Mike Cohn's test Pyramid](#mike-cohn/'s-test-pyramid)
+- [Mike Cohn's test Pyramid][1]
 - [Mobile testing](#mobile-testing)
 - [Non-functional tests](#non-functional-tests)
 - [Pesticide Paradox](#pesticide-paradox)
@@ -70,11 +70,14 @@
 - [Traceability](#traceability)
 - [Unit testing](#unit-testing)
 - [Use Case testing](#use-Case-testing)
-- [User journey/story](#user-journey//story)
+- [User journey/story][2]
 - [Validation](#validation)
 - [Verification](#verification)
 - [White box testing](#white-box-testing)
 - [YAML](#yaml)
+
+[1]: #mike-cohn's-test-pyramid
+[2]: #user-journey/story
 
 ### Absence of Error
 If the system built is unusable and does not fulfil the user’s needs and expectations then finding and fixing defects does not help.
