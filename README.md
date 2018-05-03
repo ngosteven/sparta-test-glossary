@@ -25,11 +25,14 @@ The testers have no knowledge of how the system or component is structured insid
 Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components.
 
 ### Boundary Value Analysis
+A black-box test design technique in which test cases are designed based on boundary values.
 ### Capybara
 Capybara is a web-based test automation software that simulates scenarios for user stories and automates web application testing for behavior-driven software development. It is a part of the Cucumber testing framework written in the Ruby programming language that simulates various aspects of a web browser from the perspective of a real user.
 ### Configuration Management
+A discipline applying technical and administrative direction and surveillance to identify and document the functional and physical characteristics of a configuration item, control changes to those characteristics, record and report change processing and implementation status, and verify compliance with specified requirements.
 ### Cucumber
 ### Data Parsing
+Parsing is the process of analyzing text made of a sequence of tokens to determine its grammatical structure with respect to a given (more or less) formal grammar. The parser then builds a data structure based on the tokens.
 ### Debugging
 The process of finding, analyzing and removing the causes of failures in software. Debugging tools are used to reproduce failures, investigate the state of programs and find the corresponding defect. Debuggers enable programmers to execute programs step by step, to halt a program at any program statement and to set and examine program variables.
 ### Defect
@@ -42,9 +45,11 @@ Dynamic Testing is a kind of software testing technique using which the dynamic 
 
 ### Early Testing
 In the software development life cycle testing activities should start as early as possible and should be focused on defined objectives.
-### Equivalence Partitions
+### Equivalence Partitioning
+A black-box test design technique in which test cases are designed to execute representatives from equivalence partitions. In principle, test cases are designed to cover each partition at least once.
 ### Error
 ### Error Guessing
+A test design technique where the experience of the tester is used to anticipate what defects might be present in the component or system under test as a result of errors made, and to design tests specifically to expose them.
 ### Evaluating Test Criteria
 ### Exhaustive testing
 Testing everything including all combinations of inputs and preconditions is not possible. So, instead of doing the exhaustive testing we can use risks and priorities to focus testing efforts. For example: In an application in one screen there are 15 input fields, each having 5 possible values, then to test all the valid combinations you would need 30  517  578  125  (515) tests. This is very unlikely that the project timescales would allow for this number of tests. So, accessing and managing risk is one of the most important activities and reason for testing in any project.
@@ -107,7 +112,7 @@ RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby 
 It's a type of software testing that ensures that previously developed and tested software still performs the same way after it is changed or interfaced with other software. Changes may include software enhancements, patches, configuration changes, etc.
 
 ### Restesting
-Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component. 
+Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component.
 
 ### Reusability
 ### Reviews
@@ -179,6 +184,7 @@ Testing can show the defects are present, but cannot prove that there are no def
 Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
 
 ### Traceability
+The ability to identify related items in documentation and software, such as requirements with associated tests.
 ### Unit testing
 
 ### Use Case testing
@@ -186,7 +192,9 @@ A black-box test design technique in which test cases are designed to execute sc
 
 ### User journey/story
 ### Validation
+Confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.
 ### Verification
+Confirmation by examination and through provision of objective evidence that specified requirements have been fulfilled.
 ### White box testing
 
 ### YAML
