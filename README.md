@@ -1,6 +1,7 @@
 # Sparta Test Glossary
 
 ### Absence of Error
+If the system built is unusable and does not fulfil the user’s needs and expectations then finding and fixing defects does not help.
 ### Acceptance testing
 ### Alpha testing
 
@@ -18,29 +19,46 @@ Automated testing is the use of special software (separate from the software bei
 Beta Testing is also known as field testing. It takes place at customer’s site. It sends the system/software to users who install it and use it under real-world working conditions.
 
 ### Black box testing
+
+The testers have no knowledge of how the system or component is structured inside the box. In black-box testing the tester is concentrating on what the software does, not how it does it.
+
 ### Bottom up
 
-Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
+Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components.
 
 ### Boundary Value Analysis
+A black-box test design technique in which test cases are designed based on boundary values.
 ### Capybara
+Capybara is a web-based test automation software that simulates scenarios for user stories and automates web application testing for behavior-driven software development. It is a part of the Cucumber testing framework written in the Ruby programming language that simulates various aspects of a web browser from the perspective of a real user.
 ### Configuration Management
+A discipline applying technical and administrative direction and surveillance to identify and document the functional and physical characteristics of a configuration item, control changes to those characteristics, record and report change processing and implementation status, and verify compliance with specified requirements.
 ### Cucumber
 ### Data Parsing
+Parsing is the process of analyzing text made of a sequence of tokens to determine its grammatical structure with respect to a given (more or less) formal grammar. The parser then builds a data structure based on the tokens.
 ### Debugging
+The process of finding, analyzing and removing the causes of failures in software. Debugging tools are used to reproduce failures, investigate the state of programs and find the corresponding defect. Debuggers enable programmers to execute programs step by step, to halt a program at any program statement and to set and examine program variables.
 ### Defect
+
 ### Defect Clustering
+A small number of modules contains most of the defects discovered during pre-release testing or shows the most operational failures.
 
 ### Dynamic Testing
 Dynamic Testing is a kind of software testing technique using which the dynamic behaviour of the code is analysed. For Performing dynamic, testing the software should be compiled and executed and parameters such as memory usage, CPU usage, response time and overall performance of the software are analyzed.
 
 ### Early Testing
-### Equivalence Partitions
+In the software development life cycle testing activities should start as early as possible and should be focused on defined objectives.
+### Equivalence Partitioning
+A black-box test design technique in which test cases are designed to execute representatives from equivalence partitions. In principle, test cases are designed to cover each partition at least once.
 ### Error
 ### Error Guessing
+A test design technique where the experience of the tester is used to anticipate what defects might be present in the component or system under test as a result of errors made, and to design tests specifically to expose them.
 ### Evaluating Test Criteria
 ### Exhaustive testing
+Testing everything including all combinations of inputs and preconditions is not possible. So, instead of doing the exhaustive testing we can use risks and priorities to focus testing efforts. For example: In an application in one screen there are 15 input fields, each having 5 possible values, then to test all the valid combinations you would need 30  517  578  125  (515) tests. This is very unlikely that the project timescales would allow for this number of tests. So, accessing and managing risk is one of the most important activities and reason for testing in any project.
 ### Exploratory testing
+
+A relatively informal testing method especially used in situations where there is limited time or poor specifications for testing. Testing is more hands on and decisions about what to test and how things will be tested are made on the fly by the tester. It does not preclude the use or inclusion of other more formal test techniques and often helps to establish greater confidence in software under test.
+
 ### Failure
 ### Functional tests
 
@@ -48,7 +66,7 @@ Dynamic Testing is a kind of software testing technique using which the dynamic 
 It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. It bridges the gap between business and developers. Gherkin serves two purposes — documentation and automated tests. 
 
 ### Hybrid
-It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
+It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
 
 ### IEEE-829
 
@@ -87,14 +105,14 @@ Mobile application testing is a process by which application software developed 
 Tool for testing an IOS app: Appium <br>
 Tool for testing an Android app: Android Studio
 
-## Risk Based Testing
-An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
-
 ### Non-functional tests
 ### Pesticide Paradox
+If the same kinds of tests are repeated again and again, eventually the same set of test cases will no longer be able to find any new bugs. To overcome this “Pesticide Paradox”, it is really very important to review the test cases regularly and new and different tests need to be written to exercise different parts of the software or system to potentially find more defects.
 ### RSpec
+RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications.
 ### Regression Testing
 It's a type of software testing that ensures that previously developed and tested software still performs the same way after it is changed or interfaced with other software. Changes may include software enhancements, patches, configuration changes, etc.
+
 
 ### Retesting
 Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component. 
@@ -106,10 +124,15 @@ Retesting is testing of a particular bug after it has been fixed. Usually tester
 An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
 
 ### Selenium
+Selenium WebDriver tool is used to automate web application testing to verify that it works as expected. It supports many browsers such as Firefox, Chrome, IE, and Safari. However, using the Selenium WebDriver, we can automate testing for web applications only. It does not qualify for window-based applications.
 ### State Transition Testing
 A black-box test design technique in which test cases are designed to execute valid and invalid state transitions.
 ### Statement Testing
+A white-box test design technique in which test cases are designed to execute statements.
 ### Static testing
+
+Static testing is the testing of the software work products manually, or with a set of tools. Code is not executed.
+
 ### Structural testing
 
 ### System Integration
@@ -140,13 +163,31 @@ There are two main categories of Test Design Techniques:<br>
 ### Test Planning and Control
 ### Test tools
 ### Testing Roles
-### Testing is context dependent
-### Testing shows presence of defects
+#### Test lead/manager: A test lead is responsible for:
 
+* Defining the testing activities for subordinates – testers or test engineers.
+* All responsibilities of test planning.
+* To check if the team has all the necessary resources to execute the testing activities.
+* To check if testing is going hand in hand with the software development in all phases.
+* Prepare the status report of testing activities.
+* Required Interactions with customers.
+* Updating project manager regularly about the progress of testing activities.
+#### Test engineers/QA testers/QC testers are responsible for:
+* To read all the documents and understand what needs to be tested.
+* Based on the information procured in the above step decide how it is to be tested.
+* Inform the test lead about what all resources will be required for software testing.
+* Develop test cases and prioritize testing activities.
+* Execute all the test case and report defects, define severity and priority for each defect.
+* Carry out regression testing every time when changes are made to the code to fix defects.
+### Testing is context dependent
+Testing is context dependent: Testing is basically context dependent. Different kinds of sites are tested differently. For example, safety – critical software is tested differently from an e-commerce site.
+### Testing shows presence of defects
+Testing can show the defects are present, but cannot prove that there are no defects. Even after testing the application or product thoroughly we cannot say that the product is 100% defect free. Testing always reduces the number of undiscovered defects remaining in the software but even if no defects are found, it is not a proof of correctness.
 ### Top down
 Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
 
 ### Traceability
+The ability to identify related items in documentation and software, such as requirements with associated tests.
 ### Unit testing
 
 ### Use Case testing
@@ -154,7 +195,9 @@ A black-box test design technique in which test cases are designed to execute sc
 
 ### User journey/story
 ### Validation
+Confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.
 ### Verification
+Confirmation by examination and through provision of objective evidence that specified requirements have been fulfilled.
 ### White box testing
 
 ### YAML
