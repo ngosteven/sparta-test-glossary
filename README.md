@@ -265,6 +265,8 @@ Top-down integration testing is an integration testing technique used in order t
 ### Traceability
 The ability to identify related items in documentation and software, such as requirements with associated tests.
 ### Unit testing
+A unit test is the smallest testable part of an application like functions, classes, procedures, interfaces. Unit testing is a method by which individual units of source code are tested to determine if they are fit for use.Unit tests are basically written and executed by software developers to make sure that code meets its design and requirements and behaves as expected.
+The goal of unit testing is to segregate each part of the program and test that the individual parts are working correctly.
 
 ### Use Case testing
 A black-box test design technique in which test cases are designed to execute scenarios of use cases.
