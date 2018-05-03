@@ -113,6 +113,7 @@ Retesting is testing of a particular bug after it has been fixed. Usually tester
 An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
 
 ### Selenium
+Selenium WebDriver tool is used to automate web application testing to verify that it works as expected. It supports many browsers such as Firefox, Chrome, IE, and Safari. However, using the Selenium WebDriver, we can automate testing for web applications only. It does not qualify for window-based applications.
 ### State Transition Testing
 A black-box test design technique in which test cases are designed to execute valid and invalid state transitions.
 ### Statement Testing
