@@ -8,7 +8,7 @@ If the system built is unusable and does not fulfil the user’s needs and expec
 Alpha testing is simulated or actual operational testing by potential users/customers or an independent test team at the developers’ site. Alpha testing is often employed for off-the-shelf software as a form of internal acceptance testing, before the software goes to beta testing.
 
 ### Appium
-It's a open source corss-platform test automation tool for native, mobile web applications.
+It's a open source cross-platform test automation tool for native, mobile web applications.
 
 ### Automation Testing
 Automated testing is the use of special software (separate from the software being tested) to control the execution of tests and the comparison of actual outcomes with predicted outcomes.
