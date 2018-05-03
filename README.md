@@ -54,6 +54,9 @@ A test design technique where the experience of the tester is used to anticipate
 ### Exhaustive testing
 Testing everything including all combinations of inputs and preconditions is not possible. So, instead of doing the exhaustive testing we can use risks and priorities to focus testing efforts. For example: In an application in one screen there are 15 input fields, each having 5 possible values, then to test all the valid combinations you would need 30  517  578  125  (515) tests. This is very unlikely that the project timescales would allow for this number of tests. So, accessing and managing risk is one of the most important activities and reason for testing in any project.
 ### Exploratory testing
+
+A relatively informal testing method especially used in situations where there is limited time or poor specifications for testing. Testing is more hands on and decisions about what to test and how things will be tested are made on the fly by the tester. It does not preclude the use or inclusion of other more formal test techniques and often helps to establish greater confidence in software under test.
+
 ### Failure
 ### Functional tests
 
@@ -99,9 +102,6 @@ Mike Cohn's test Pyramid
 Mobile application testing is a process by which application software developed for handheld mobile devices is tested for its functionality, usability and consistency. Mobile application testing can be an automated or manual type of testing. <br>
 Tool for testing an IOS app: Appium <br>
 Tool for testing an Android app: Android Studio
-
-## Risk Based Testing
-An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
 
 ### Non-functional tests
 ### Pesticide Paradox
