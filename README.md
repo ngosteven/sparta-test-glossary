@@ -37,7 +37,7 @@
 - [Integration testing](#integration-testing)
 - [JMeter](#jmeter)
 - [Metric based testing](#metric-based-testing)
-- [Mike Cohn's test Pyramid][1]
+- [Mike Cohn's test Pyramid](#mike-cohn)
 - [Mobile testing](#mobile-testing)
 - [Non-functional tests](#non-functional-tests)
 - [Pesticide Paradox](#pesticide-paradox)
@@ -70,14 +70,11 @@
 - [Traceability](#traceability)
 - [Unit testing](#unit-testing)
 - [Use Case testing](#use-Case-testing)
-- [User journey/story][2]
+- [User journey/story](#user-journey)
 - [Validation](#validation)
 - [Verification](#verification)
 - [White box testing](#white-box-testing)
 - [YAML](#yaml)
-
-[1]: #mike-cohn&#39;s-test-pyramid
-[2]: #user-journey%2Fstory
 
 ### Absence of Error
 If the system built is unusable and does not fulfil the user’s needs and expectations then finding and fixing defects does not help.
@@ -168,7 +165,7 @@ It stands for the "International Software Testing Qualifications Board". It's a 
 ### Integration testing
 ### JMeter
 
-### Mike Cohn's test Pyramid
+### <a name="mike-cohn"></a>Mike Cohn's test Pyramid
 The "Test Pyramid" is a metaphor that tells us to group software tests into buckets of different granularity. It also gives an idea of how many tests we should have in each of these groups.
 
 ### Incident management
@@ -272,7 +269,7 @@ The ability to identify related items in documentation and software, such as req
 ### Use Case testing
 A black-box test design technique in which test cases are designed to execute scenarios of use cases.
 
-### User journey/story
+### <a name="user-journey"></a>User journey/story
 ### Validation
 Confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.
 ### Verification
