@@ -66,6 +66,11 @@ Eight defined stages of software testing:
 ### ISTQB
 ### Incident management
 ### Integration testing
+
+Integration testing tests integration or interfaces between components, interactions to different parts of the system such as an operating system, file system and hardware or interfaces between systems.
+Also after integrating two different components together we do the integration testing. As displayed in the image below when two different modules ‘Module A’ and ‘Module B’ are integrated then the integration testing is done.
+Integration testing follows two approach known as ‘Top Down’ approach and ‘Bottom Up’ approach.
+
 ### JMeter
 ### Mike Cohn's test Pyramid
 
