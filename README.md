@@ -76,8 +76,8 @@
 - [White box testing](#white-box-testing)
 - [YAML](#yaml)
 
-[1]: #mike-cohn's-test-pyramid
-[2]: #user-journey/story
+[1]: #mike-cohn&#39;s-test-pyramid
+[2]: #user-journey%2Fstory
 
 ### Absence of Error
 If the system built is unusable and does not fulfil the user’s needs and expectations then finding and fixing defects does not help.
