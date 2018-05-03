@@ -139,7 +139,7 @@ A relatively informal testing method especially used in situations where there i
 ### Functional tests
 
 ### Gherkin Syntax
-It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. It bridges the gap between business and developers. Gherkin serves two purposes — documentation and automated tests. 
+It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. It bridges the gap between business and developers. Gherkin serves two purposes — documentation and automated tests.
 
 ### Hybrid
 It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
@@ -191,7 +191,7 @@ It's a type of software testing that ensures that previously developed and teste
 
 
 ### Retesting
-Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component. 
+Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component.
 
 ### Reusability
 ### Reviews
@@ -274,7 +274,8 @@ A black-box test design technique in which test cases are designed to execute sc
 Confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.
 ### Verification
 Confirmation by examination and through provision of objective evidence that specified requirements have been fulfilled.
-### White box testing
+### White box Testing
+This article is devoted to understanding how to derive test cases from a program and also derive coverage metrics for tests undertake. Deriving test case after analysis or understanding programs is white box testing.
 
 ### YAML
 
