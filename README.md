@@ -31,7 +31,7 @@
 - [Functional tests](#functional-tests)
 - [Gherkin Syntax](#gherkin-syntax)
 - [Hybrid](#hybrid)
-- [IEEE-829](#ieee-829)
+- [IEEE-829](#ieee)
 - [ISTQB](#istqb)
 - [Incident management](#incident-management)
 - [Integration testing](#integration-testing)
@@ -144,7 +144,7 @@ It is a Business Readable, Domain Specific Language that lets you describe softw
 ### Hybrid
 It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
 
-### IEEE-829
+### <a name="ieee"></a>IEEE-829
 
 Standard for Software Test Documentation
 Eight defined stages of software testing:
