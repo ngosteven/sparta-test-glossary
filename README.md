@@ -21,7 +21,7 @@ The testers have no knowledge of how the system or component is structured insid
 
 ### Bottom up
 
-Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components. 
+Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components.
 
 ### Boundary Value Analysis
 ### Capybara
@@ -44,10 +44,10 @@ The process of finding, analyzing and removing the causes of failures in softwar
 ### Functional tests
 
 ### Gherkin Syntax
-It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests. 
+It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests.
 
 ### Hybrid
-It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
+It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
 
 ### IEEE-829
 
@@ -66,6 +66,11 @@ Eight defined stages of software testing:
 ### ISTQB
 ### Incident management
 ### Integration testing
+
+Integration testing tests integration or interfaces between components, interactions to different parts of the system such as an operating system, file system and hardware or interfaces between systems.
+Also after integrating two different components together we do the integration testing. As displayed in the image below when two different modules ‘Module A’ and ‘Module B’ are integrated then the integration testing is done.
+Integration testing follows two approach known as ‘Top Down’ approach and ‘Bottom Up’ approach.
+
 ### JMeter
 ### Mike Cohn's test Pyramid
 
@@ -158,6 +163,8 @@ Top-down integration testing is an integration testing technique used in order t
 ### Traceability
 ### Unit testing
 
+A unit test is the smallest testable part of an application like functions, classes, procedures, interfaces. Unit testing is a method by which individual units of source code are tested to determine if they are fit for use.
+
 ### Use Case testing
 A black-box test design technique in which test cases are designed to execute scenarios of use cases.
 
@@ -166,12 +173,9 @@ A black-box test design technique in which test cases are designed to execute sc
 ### Verification
 ### White box testing
 
-<<<<<<< HEAD
 The testers require knowledge of how the software is implemented, how it works.
 The tester is concentrating on how the software does it. For example, a structural technique may be concerned with exercising loops in the software.
 
-=======
->>>>>>> dev
 ### YAML
 
 YAML (YAML Ain't Markup Language) is a data serialization language. It is commonly used for configuration files, but could be used in many applications where data is being stored or transmitted.
