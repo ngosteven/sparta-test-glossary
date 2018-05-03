@@ -196,6 +196,7 @@ Confirmation by examination and through provision of objective evidence that the
 ### Verification
 Confirmation by examination and through provision of objective evidence that specified requirements have been fulfilled.
 ### White box testing
+White-box test design techniques (also called structural or structure- based techniques) are used to derive test cases from an analysis of the program(code).Deriving test case after analysis or understanding programs is white box testing. (In contrast to black box testing where test cases are designed from specification).
 
 ### YAML
 
