@@ -24,22 +24,33 @@ The testers have no knowledge of how the system or component is structured insid
 Bottom-up testing is an approach to integrated testing where the lowest level components are tested first, then used to facilitate the testing of higher level components.
 
 ### Boundary Value Analysis
+A black-box test design technique in which test cases are designed based on boundary values.
 ### Capybara
 ### Configuration Management
+A discipline applying technical and administrative direction and surveillance to identify and document the functional and physical characteristics of a configuration item, control changes to those characteristics, record and report change processing and implementation status, and verify compliance with specified requirements.
 ### Cucumber
 ### Data Parsing
+Parsing is the process of analyzing text made of a sequence of tokens to determine its grammatical structure with respect to a given (more or less) formal grammar. The parser then builds a data structure based on the tokens.
 ### Debugging
 The process of finding, analyzing and removing the causes of failures in software. Debugging tools are used to reproduce failures, investigate the state of programs and find the corresponding defect. Debuggers enable programmers to execute programs step by step, to halt a program at any program statement and to set and examine program variables.
 ### Defect
 ### Defect Clustering
 ### Dynamic Testing
 ### Early Testing
-### Equivalence Partitions
+In the software development life cycle testing activities should start as early as possible and should be focused on defined objectives.
+
+### Equivalence Partitioning
+A black-box test design technique in which test cases are designed to execute representatives from equivalence partitions. In principle, test cases are designed to cover each partition at least once.
+
 ### Error
 ### Error Guessing
+A test design technique where the experience of the tester is used to anticipate what defects might be present in the component or system under test as a result of errors made, and to design tests specifically to expose them.
 ### Evaluating Test Criteria
 ### Exhaustive testing
 ### Exploratory testing
+
+A relatively informal testing method especially used in situations where there is limited time or poor specifications for testing. Testing is more hands on and decisions about what to test and how things will be tested are made on the fly by the tester. It does not preclude the use or inclusion of other more formal test techniques and often helps to establish greater confidence in software under test.
+
 ### Failure
 ### Functional tests
 
@@ -87,15 +98,14 @@ Mobile application testing is a process by which application software developed 
 Tool for testing an IOS app: Appium <br>
 Tool for testing an Android app: Android Studio
 
-## Risk Based Testing
-An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
-
 ### Non-functional tests
 ### Pesticide Paradox
 ### RSpec
 RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby code. It is a behavior-driven development framework which is extensively used in the production applications.
 ### Regression Testing
 ### Restesting
+Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component.
+
 ### Reusability
 ### Reviews
 
@@ -161,6 +171,7 @@ There are two main categories of Test Design Techniques:<br>
 Top-down integration testing is an integration testing technique used in order to simulate the behaviour of the lower-level modules that are not yet integrated.
 
 ### Traceability
+The ability to identify related items in documentation and software, such as requirements with associated tests.
 ### Unit testing
 
 A unit test is the smallest testable part of an application like functions, classes, procedures, interfaces. Unit testing is a method by which individual units of source code are tested to determine if they are fit for use.
@@ -170,8 +181,11 @@ A black-box test design technique in which test cases are designed to execute sc
 
 ### User journey/story
 ### Validation
+Confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.
 ### Verification
+Confirmation by examination and through provision of objective evidence that specified requirements have been fulfilled.
 ### White box testing
+White-box test design techniques (also called structural or structure- based techniques) are used to derive test cases from an analysis of the program(code).Deriving test case after analysis or understanding programs is white box testing. (In contrast to black box testing where test cases are designed from specification).
 
 The testers require knowledge of how the software is implemented, how it works.
 The tester is concentrating on how the software does it. For example, a structural technique may be concerned with exercising loops in the software.
