@@ -7,6 +7,8 @@
 Alpha testing is simulated or actual operational testing by potential users/customers or an independent test team at the developers’ site. Alpha testing is often employed for off-the-shelf software as a form of internal acceptance testing, before the software goes to beta testing.
 
 ### Appium
+It's a open source corss-platform test automation tool for native, mobile web applications.
+
 ### Automation Testing
 Automated testing is the use of special software (separate from the software being tested) to control the execution of tests and the comparison of actual outcomes with predicted outcomes.
 
@@ -43,7 +45,7 @@ Dynamic Testing is a kind of software testing technique using which the dynamic 
 ### Functional tests
 
 ### Gherkin Syntax
-It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests. 
+It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. It bridges the gap between business and developers. Gherkin serves two purposes — documentation and automated tests. 
 
 ### Hybrid
 It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches. 
@@ -94,7 +96,7 @@ An approach to testing to reduce the level of product risks and inform stakehold
 ### Regression Testing
 It's a type of software testing that ensures that previously developed and tested software still performs the same way after it is changed or interfaced with other software. Changes may include software enhancements, patches, configuration changes, etc.
 
-### Restesting
+### Retesting
 Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component. 
 
 ### Reusability
