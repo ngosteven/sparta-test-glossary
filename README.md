@@ -1,5 +1,81 @@
 # Sparta Test Glossary
 
+## Contents
+
+- [Absence of Error](#absence-of-error)
+- [Acceptance testing](#acceptance-testing)
+- [Alpha testing](#alpha-testing)
+- [Appium](#appium)
+- [Automation Testing](#automation-testing)
+- [Behaviour Driven Development](#behaviour-driven-development)
+- [Beta testing](#beta-testing)
+- [Black box testing](#black-box-testing)
+- [Bottom up](#bottom-up)
+- [Boundary Value Analysis](#boundary-value-analysis)
+- [Capybara](#capybara)
+- [Configuration Management](#configuration-management)
+- [Cucumber](#cucumber)
+- [Data Parsing](#data-parsing)
+- [Debugging](#debugging)
+- [Defect](#defect)
+- [Defect Clustering](#defect-clustering)
+- [Dynamic Testing](#dynamic-testing)
+- [Early Testing](#early-testing)
+- [Equivalence Partitioning](#equivalence-partitioning)
+- [Error](#error)
+- [Error Guessing](#error-Guessing)
+- [Evaluating Test Criteria](#evaluating-test-criteria)
+- [Exhaustive testing](#exhaustive-testing)
+- [Exploratory testing](#exploratory-testing)
+- [Failure](#failure)
+- [Functional tests](#functional-tests)
+- [Gherkin Syntax](#gherkin-syntax)
+- [Hybrid](#hybrid)
+- [IEEE-829](#ieee)
+- [ISTQB](#istqb)
+- [Incident management](#incident-management)
+- [Integration testing](#integration-testing)
+- [JMeter](#jmeter)
+- [Metric based testing](#metric-based-testing)
+- [Mike Cohn's test Pyramid](#mike-cohn)
+- [Mobile testing](#mobile-testing)
+- [Non-functional tests](#non-functional-tests)
+- [Pesticide Paradox](#pesticide-paradox)
+- [RSpec](#rspec)
+- [Regression Testing](#regression-testing)
+- [Restesting](#restesting)
+- [Reusability](#reusability)
+- [Reviews](#reviews)
+- [Risk based testing](#risk-based-testing)
+- [Selenium](#selenium)
+- [State Transition Testing](#state-transition-testing)
+- [Statement Testing](#statement-testing)
+- [Static testing](#static-testing)
+- [Structural testing](#structural-testing)
+- [System Integration](#system-integration)
+- [System testing](#system-testing)
+- [Test Analysis and Design](#test-analysis-and-design)
+- [Test Case](#test-case)
+- [Test Closure](#test-closure)
+- [Test Coverage](#test-coverage)
+- [Test Design](#test-design)
+- [Test Driven Development](#test-driven-development)
+- [Test Implementation and Execution](#test-implementation-and-execution)
+- [Test Planning and Control](#test-planning-and-control)
+- [Test tools](#test-tools)
+- [Testing Roles](#testing-Roles)
+- [Testing is context dependent](#testing-is-context-dependent)
+- [Testing shows presence of defects](#testing-shows-presence-of-defects)
+- [Top down](#top-down)
+- [Traceability](#traceability)
+- [Unit testing](#unit-testing)
+- [Use Case testing](#use-Case-testing)
+- [User journey/story](#user-journey)
+- [Validation](#validation)
+- [Verification](#verification)
+- [White box testing](#white-box-testing)
+- [YAML](#yaml)
+
 ### Absence of Error
 If the system built is unusable and does not fulfil the user’s needs and expectations then finding and fixing defects does not help.
 ### Acceptance testing
@@ -8,6 +84,8 @@ If the system built is unusable and does not fulfil the user’s needs and expec
 Alpha testing is simulated or actual operational testing by potential users/customers or an independent test team at the developers’ site. Alpha testing is often employed for off-the-shelf software as a form of internal acceptance testing, before the software goes to beta testing.
 
 ### Appium
+It's a open source cross-platform test automation tool for native, mobile web applications.
+
 ### Automation Testing
 Automated testing is the use of special software (separate from the software being tested) to control the execution of tests and the comparison of actual outcomes with predicted outcomes.
 
@@ -61,12 +139,12 @@ A relatively informal testing method especially used in situations where there i
 ### Functional tests
 
 ### Gherkin Syntax
-It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. Gherkin serves two purposes — documentation and automated tests.
+It is a Business Readable, Domain Specific Language that lets you describe software's behaviour without detailing how that behaviour is implemented. It bridges the gap between business and developers. Gherkin serves two purposes — documentation and automated tests. 
 
 ### Hybrid
 It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
 
-### IEEE-829
+### <a name="ieee"></a>IEEE-829
 
 Standard for Software Test Documentation
 Eight defined stages of software testing:
@@ -87,7 +165,7 @@ It stands for the "International Software Testing Qualifications Board". It's a 
 ### Integration testing
 ### JMeter
 
-### Mike Cohn's test Pyramid
+### <a name="mike-cohn"></a>Mike Cohn's test Pyramid
 The "Test Pyramid" is a metaphor that tells us to group software tests into buckets of different granularity. It also gives an idea of how many tests we should have in each of these groups.
 
 ### Incident management
@@ -111,8 +189,9 @@ RSpec is a 'Domain Specific Language' testing tool written in Ruby to test Ruby 
 ### Regression Testing
 It's a type of software testing that ensures that previously developed and tested software still performs the same way after it is changed or interfaced with other software. Changes may include software enhancements, patches, configuration changes, etc.
 
-### Restesting
-Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component.
+
+### Retesting
+Retesting is testing of a particular bug after it has been fixed. Usually tester raises the bug when they find it while testing the product or its component. 
 
 ### Reusability
 ### Reviews
@@ -190,7 +269,7 @@ The ability to identify related items in documentation and software, such as req
 ### Use Case testing
 A black-box test design technique in which test cases are designed to execute scenarios of use cases.
 
-### User journey/story
+### <a name="user-journey"></a>User journey/story
 ### Validation
 Confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.
 ### Verification
