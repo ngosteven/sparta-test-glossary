@@ -154,7 +154,7 @@ A relatively informal testing method especially used in situations where there i
 ### Failure
 Deviation of the component or system from its expected delivery, service or result.
 
-### Functional tests
+### Functional tests
 Testing based on an analysis of the specification of the functionality of a component or system.
 
 ### Gherkin Syntax
@@ -163,7 +163,7 @@ It is a Business Readable, Domain Specific Language that lets you describe softw
 ### Hybrid
 It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
 
-### IEEE-829
+### IEEE-829
 
 Standard for Software Test Documentation
 Eight defined stages of software testing:
@@ -222,7 +222,7 @@ Reusability is the use of existing assets in some form within the software produ
 ### Reviews
 An evaluation of a product or project status to ascertain discrepancies from planned results and to recommend improvements. Examples include management review, informal review, technical review, inspection, and walkthrough.
 
-## Risk Based Testing
+### Risk Based Testing
 An approach to testing to reduce the level of product risks and inform stakeholders of their status, starting in the initial stages of a project. It involves the identification of product risks and the use of risk levels to guide the test process.
 
 ### Selenium
