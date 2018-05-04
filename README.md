@@ -164,6 +164,7 @@ It is a Business Readable, Domain Specific Language that lets you describe softw
 It is an approach to Integration Testing which is a combination of Top Down and Bottom Up approaches.
 
 ### IEEE-829
+
 Standard for Software Test Documentation
 Eight defined stages of software testing:
 
