@@ -235,10 +235,35 @@ There are two main categories of Test Design Techniques:<br>
 2. Dynamic Techniques
 
 ### Test Driven Development
+Is an evolutionary approach to development which combines test-first development where you write a test before you write just enough production code to fulfil that test and refactoring. The goal of TDD is specification and not validation.  In other words, it’s one way to think through your requirements or design before your write your functional code. Another view is that TDD is a programming technique.
+
 ### Test Implementation and Execution
+Implementation is the process of developing and prioritising test procedures, creating test data and, optionally, preparing test harnesses and writing automated test scripts. Execution is the process of running a test on the component or system under test, producing actual result(s).
+
 ### Test Planning and Control
+Planning is the activity of establishing or updating a test plan. Control is a test management task that deals with developing and applying a set of corrective actions to get a test project on track when monitoring shows a deviation from what was planned.
+
 ### Test tools
+ A test management tool is software used to manage tests (automated or manual) that have been previously specified by a test procedure. It is often associated with automation software.
+
 ### Testing Roles
+Test lead/manager:
+Defining the testing activities for subordinates – testers or test engineers.
+All responsibilities of test planning.
+To check if the team has all the necessary resources to execute the testing activities.
+To check if testing is going hand in hand with the software development in all phases.
+Prepare the status report of testing activities.
+Required Interactions with customers.
+Updating project manager regularly about the progress of testing activities.
+
+Test engineers/QA testers/QC:
+To read all the documents and understand what needs to be tested.
+Based on the information procured in the above step decide how it is to be tested.
+Inform the test lead about what all resources will be required for software testing.
+Develop test cases and prioritize testing activities.
+Execute all the test case and report defects, define severity and priority for each defect.
+Carry out regression testing every time when changes are made to the code to fix defects.
+
 #### Test lead/manager: A test lead is responsible for:
 
 * Defining the testing activities for subordinates – testers or test engineers.
